@@ -1,0 +1,146 @@
+.line-p{
+    width: 100%;
+    height: 1px;
+    background: #9A9A9A;
+}
+.main-top-c3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+    height: 15px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.gk{
+    color: #969696;
+}
+.gk2{
+    color: #171717;
+}
+a{
+    text-decoration: none;
+}
+.main-top-c4{
+    width: 1440px;
+    height: 560px;
+    margin-left: 13%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-top-c4-mini-1{
+    width: 342px;
+    height: 342px;
+}
+.main-top-c4-mini-2{
+    background: #F8F8F8;
+    width: 500px;
+    height: 460px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tlop1{
+    font-weight: 500;
+    font-size: 31px;
+}
+.tlop2{
+    font-size: 12px;
+line-height: 12px;
+color: #848484;
+}
+.tlop3{
+    font-size: 16px;
+line-height: 26px;
+color: #323232;
+}
+.tlop4{
+    font-size: 12px;
+    line-height: 12px;
+    color: #848484;
+}
+.tlop5{
+    font-size: 16px;
+line-height: 26px;
+margin: 0 auto;
+}
+.tlop6{
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.tlop7{
+    font-size: 12px;
+    line-height: 12px;
+    color: #848484;
+}
+.tlop8{
+    font-size: 16px;
+line-height: 26px;
+color: #323232;
+}
+.tlok{
+    font-size: 20px;
+line-height: 24px;
+
+}
+.Di{
+    width: 370px;
+    height: 50px;
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+.htu{
+    width: 377px;
+    height: 60px;
+    background: #DD4053;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+    border: none;
+    margin-right: 0px;
+}
+.div1{
+    padding-left: 30px;
+}
+.main-top-c5{
+    margin-left: 13%;
+}
+.main-top-c6{
+    width: 1170px;
+    height: 784px;
+    margin-left: 19%;
+    background: cyan;}
+.main-top-c6-mini-1{
+    width: 1170px;
+    height: 85px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #D0D0D0;; 
+}
+.tnm{
+    font-size: 31px;
+line-height: 42px;
+color: #232323;
+margin-right: 270px;
+}
+.tnm2{
+    font-size: 16px;
+    color: #000000;
+}
+.tnm3{
+    font-size: 16px;
+    color: #000000;
+    opacity: 0.35;
+}
+.mini-mini-top-c6-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
